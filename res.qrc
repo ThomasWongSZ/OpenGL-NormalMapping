@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>normal_mapping.vert</file>
+        <file>normal_mapping.frag</file>
+        <file>image/brickwall.jpg</file>
+        <file>image/brickwall_normal.jpg</file>
+    </qresource>
+</RCC>
